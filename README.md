@@ -35,7 +35,7 @@ https://cvilleschools.onshape.com/documents/ee510a1a890f6fb766c83ca2/w/c7fc78af2
 https://cvilleschools.onshape.com/documents/55332b26f80eccf3d4bc9b19/w/0c69190a38c6ed1fc3fe7ccd/e/61c838cb81d567dea306b210?renderMode=0&uiState=645d6c8c111b9348867dc063
 
 Assembly:
-https://cvilleschools.oshape.com/documents/d32332770adc4be852de8443/w/982fbff7cb1cac414eb2d067/e/5272f63afb22fc9795a74e90?renderMode=0&uiState=645d6cfff7813b195b97ef6c
+https://cvilleschools.onshape.com/documents/d32332770adc4be852de8443/w/982fbff7cb1cac414eb2d067/e/5272f63afb22fc9795a74e90?renderMode=0&uiState=645d6cfff7813b195b97ef6c
 
 
 ### Certification
