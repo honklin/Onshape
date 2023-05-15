@@ -3,7 +3,7 @@
 ### Description
 We did several practice assignments to practice for the Onshape Certification test using single part, multipart, and assembly assignments. The Onshape Certification exam tests our knowledge of Onshape through general knowledge, single part, multipart, and assembly portions and certifies that anyone who passes is proficient at modeling in Onshape.
 
-### Images
+### Practice Assignments
 <img width="815" alt="Screen Shot 2023-05-11 at 6 27 01 PM" src="https://github.com/honklin/Onshape/assets/121810694/02e9736a-4e85-4fda-913a-e73716c09005">
 
 Single Part Practice
