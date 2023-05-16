@@ -39,8 +39,15 @@ https://cvilleschools.onshape.com/documents/d32332770adc4be852de8443/w/982fbff7c
 
 
 ### Certification
-
 <img width="947" alt="Screen Shot 2023-05-15 at 7 35 24 PM" src="https://github.com/honklin/Onshape/assets/121810694/3b23b7f5-ffb7-4d59-9760-6de2f1e3d410">
 
+Results from my Onshape Certification Exam
 
 ### Reflection
+I passed the Onshape Certification Exam with an 83%. I found the exam to be pretty challenging, but I think I was able to pass by doing several practice assignments with time limits. 
+
+Single Part:
+I knew the single part section would be the simplest of the three parts so I had to spend as little time on this part as I could. Based on the practice assignments like the Swing Arm or the first single part assignment, I knew that the part I would have to design would be relatively simple, but with one or two more complicated parts that was probably built around one sketch. I learned from doing the practice assignments that you had to look out for small details in the reference images that would show some feature that would drastically mess up my answers if I overlooked it, like the almost invisible ledge on the Swing Arm. I knew that I had to get the first design question right, otherwise when I tried to answer the others with  varying edits to the features, I would get the wrong answer to all of them, so I double checked my work before going on to question 2. By doing the practice assignments with the time limit, I found that the only way I would finish on time was if I got the design right the first time and didn't have to go back and find the small error I had made. I found this section exam on the pretty easy and managed to get all the questions right.
+
+General Knowledge:
+The general knowledge portion was the easiest of the sections because I could use the internet and my own experiences to answer the questions. When taking practice tests, I had found that if I needed to look up an answer I had to search it very fast and not spend minutes looking for it, otherwise I would waste a lot of time in this section that I needed on the modeling sections. I found most of the questions to be very similar to how I use Onshape so I could use my prior knowledge on most of the questions. On the exam, I got 25 out of the 30 questions correct.
