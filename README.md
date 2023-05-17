@@ -46,7 +46,7 @@ Results from my Onshape Certification Exam
 https://mettl.com/analytics/share-report?key=NhEs26Ag8oIuqqEQrYMNnw%3D%3D
 
 ### Reflection
-I passed the Onshape Certification Exam with an 83%. I found the exam to be pretty challenging, but I was able to pass by doing several practice assignments with time limits. 
+I passed the Onshape Certification Exam with an 83%. I found the exam to be pretty challenging, but I was able to pass by doing several practice assignments with th exam time limits. 
 
 Single Part Section:
 I knew the single part section would be the simplest of the three parts so I had to spend as little time on this part as I could. Based on the practice assignments like the Swing Arm or the first single part assignment, I knew that the part I would have to design would be relatively simple, but with one or two more complicated parts that was probably built around one sketch. I learned from doing the practice assignments that you had to look out for small details in the reference images that would show some feature that would drastically mess up my answers if I overlooked it, like the almost invisible ledge on the Swing Arm. I knew that I had to get the first design question right, otherwise when I tried to answer the others with  varying edits to the features, I would get the wrong answer to all of them, so I double checked my work before going on to question 2. By doing the practice assignments with the time limit, I found that the only way I would finish on time was if I got the design right the first time and didn't have to go back and find the small error I had made. I found this section exam on the pretty easy and managed to get all the questions right while also finishing with some time left over.
